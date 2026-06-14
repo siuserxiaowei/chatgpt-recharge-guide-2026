@@ -16,10 +16,9 @@
 | 编程工作流 | 可作为基础能力 | 适合重度开发者 | 重点核对代码任务权益 |
 | 预算敏感 | 优先考虑 | 谨慎购买 | 先核对必要性 |
 
-## 推荐阅读
+## Nano Banana 推荐阅读
 
-- ChatGPT 充值总览：https://nano-banana.lol/ai-subscriptions/chatgpt-recharge
-- ChatGPT Plus 指南：https://nano-banana.lol/ai-subscriptions/chatgpt-plus-recharge
-- ChatGPT Pro 指南：https://nano-banana.lol/ai-subscriptions/chatgpt-pro-recharge
-- Codex 指南：https://nano-banana.lol/ai-subscriptions/codex-recharge
-
+- Nano Banana ChatGPT 充值总览：https://nano-banana.lol/ai-subscriptions/chatgpt-recharge
+- Nano Banana ChatGPT Plus 指南：https://nano-banana.lol/ai-subscriptions/chatgpt-plus-recharge
+- Nano Banana ChatGPT Pro 指南：https://nano-banana.lol/ai-subscriptions/chatgpt-pro-recharge
+- Nano Banana Codex 指南：https://nano-banana.lol/ai-subscriptions/codex-recharge

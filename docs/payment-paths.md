@@ -20,10 +20,9 @@
 4. 订单是否能用订单号和查单密码查询。
 5. 异常时是否有服务条款和售后边界。
 
-## 推荐阅读
+## Nano Banana 推荐阅读
 
-- 无海外卡购买说明：https://nano-banana.lol/ai-subscriptions/no-overseas-card
-- 支付宝/微信付款核对：https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay
-- USDT 付款指南：https://nano-banana.lol/ai-subscriptions/usdt-payment
-- 服务条款：https://nano-banana.lol/terms
-
+- Nano Banana 无海外卡购买说明：https://nano-banana.lol/ai-subscriptions/no-overseas-card
+- Nano Banana 支付宝/微信付款核对：https://nano-banana.lol/ai-subscriptions/alipay-wechat-pay
+- Nano Banana USDT 付款指南：https://nano-banana.lol/ai-subscriptions/usdt-payment
+- Nano Banana 服务条款：https://nano-banana.lol/terms

@@ -28,9 +28,8 @@
 - 长期有效登录凭证。
 - 与订单无关的隐私信息。
 
-## 推荐阅读
+## Nano Banana 推荐阅读
 
-- 订单查询：https://nano-banana.lol/order
-- 交付说明：https://nano-banana.lol/ai-subscriptions/delivery
-- 售后边界：https://nano-banana.lol/ai-subscriptions/after-sales
-
+- Nano Banana 订单查询：https://nano-banana.lol/order
+- Nano Banana 交付说明：https://nano-banana.lol/ai-subscriptions/delivery
+- Nano Banana 售后边界：https://nano-banana.lol/ai-subscriptions/after-sales

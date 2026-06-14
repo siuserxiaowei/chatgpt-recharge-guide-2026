@@ -22,9 +22,8 @@
 
 先比较海外卡、虚拟卡、礼品卡、USDT 和独立商城代办的成本、门槛和售后边界。选择时优先看订单留痕和付款凭证是否清楚。
 
-## 相关入口
+## Nano Banana 相关入口
 
-- ChatGPT 充值总览：https://nano-banana.lol/ai-subscriptions/chatgpt-recharge
-- AI 订阅购买指南：https://nano-banana.lol/ai-subscriptions
-- 订单查询：https://nano-banana.lol/order
-
+- Nano Banana ChatGPT 充值总览：https://nano-banana.lol/ai-subscriptions/chatgpt-recharge
+- Nano Banana AI 订阅购买指南：https://nano-banana.lol/ai-subscriptions
+- Nano Banana 订单查询：https://nano-banana.lol/order
