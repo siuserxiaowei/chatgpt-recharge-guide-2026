@@ -1,5 +1,66 @@
 # 2026 ChatGPT 充值指南：Plus / Pro / Codex 国内怎么选
 
+<!-- SIUSER-REPO-GUIDE:START -->
+## Repository Guide
+
+### What This Repository Does
+
+2026 ChatGPT 充值指南：Plus / Pro / Codex 国内购买路径、无海外卡付款、订单查询和售后材料清单。
+
+### Online Entry Points
+
+- GitHub repository: https://github.com/siuserxiaowei/chatgpt-recharge-guide-2026
+- Live / GitHub Pages: https://nano-banana.lol/ai-subscriptions/chatgpt-recharge
+- Default branch: `main`
+- Primary language: `not specified`
+- Topics: `ai-subscription`, `alipay`, `chatgpt`, `chatgpt-plus`, `chatgpt-pro`, `codex`, `recharge`, `wechat-pay`
+
+### How To Read / Learn This Repository
+
+1. 先读本 README，确认项目目标、在线入口和本地运行方式。
+2. 打开上方 Live / GitHub Pages 链接，先从最终效果理解项目。
+3. 按仓库目录从入口文件、数据文件、脚本和文档依次阅读。
+4. 如果要修改内容，先小范围改动，再运行本 README 中的验证命令。
+
+### Clone This Repository
+
+```bash
+git clone https://github.com/siuserxiaowei/chatgpt-recharge-guide-2026.git
+cd chatgpt-recharge-guide-2026
+```
+
+### Run Or View Locally
+
+```bash
+python3 -m http.server 8000
+```
+
+然后打开 `http://127.0.0.1:8000/`。
+
+### Repository Map
+
+| Path | Purpose |
+| --- | --- |
+| `README.md` | 项目入口说明，先读这里。 |
+| `docs/` | 文档或 GitHub Pages 输出目录。 |
+| `LICENSE` | 项目文件。 |
+| `_config.yml` | 项目文件。 |
+| `index.md` | 项目文件。 |
+
+### Maintenance Notes
+
+- Keep this README in sync when the project purpose, live link, or run commands change.
+- Prefer small, focused commits when changing code, data, or generated pages.
+- Run the relevant build or validation command before publishing changes.
+- If this is a generated/static archive, update the source data first, then regenerate the public files.
+
+### Privacy And Safety
+
+- Do not commit API keys, tokens, passwords, cookies, private URLs, or internal account data.
+- Keep private source material out of public GitHub Pages output unless it has been explicitly cleared for publication.
+- When in doubt, run a quick secret scan such as `rg -n "token|secret|password|access_key|authorization"` before pushing.
+<!-- SIUSER-REPO-GUIDE:END -->
+
 更新时间：2026-06-14
 
 这份指南面向国内用户，整理 ChatGPT Plus、ChatGPT Pro、Codex 相关订阅在购买前应该核对的事项：应该选哪个权益、没有海外卡时有哪些路径、付款失败时怎么排查、下单后如何保存订单凭证。
